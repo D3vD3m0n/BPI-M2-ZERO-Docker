@@ -3,7 +3,7 @@ Banana Pi BPI-M2 ZERO Docker Server
 
 ## Image your Raspberry Pi microsd card
 + Download the Raspberry Pi OS 64 bit lite image
-` http://downloads.raspberrypi.org/raspios_lite_arm64/images/`
+[Raspjamming-lite-bpi-m2z Image](https://github.com/GrazerComputerClub/Raspjamming-OS_Banana-Pi-M2-Zero/releases/download/20.07-02/image_2020-07-13-Raspjamming-lite-bpi-m2z.zip)
 
 + Flash it to your micro sd card using using a tool such as Etcher or Raspberry Pi imager.
 
